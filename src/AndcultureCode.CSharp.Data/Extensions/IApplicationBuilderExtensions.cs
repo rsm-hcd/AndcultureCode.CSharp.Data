@@ -1,7 +1,5 @@
 using System;
 using AndcultureCode.CSharp.Core;
-using AndcultureCode.CSharp.Core.Constants;
-using AndcultureCode.CSharp.Core.Interfaces;
 using AndcultureCode.CSharp.Data.Interfaces;
 using AndcultureCode.CSharpCore.Constants;
 using Microsoft.AspNetCore.Builder;
