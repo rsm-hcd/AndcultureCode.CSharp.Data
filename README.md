@@ -1,5 +1,6 @@
-# AndcultureCode.CSharp.Data 
-[![Build Status](https://travis-ci.org/AndcultureCode/AndcultureCode.CSharp.Data.svg?branch=master)](https://travis-ci.org/AndcultureCode/AndcultureCode.CSharp.Data) [![codecov](https://codecov.io/gh/AndcultureCode/AndcultureCode.CSharp.Data/branch/master/graph/badge.svg)](https://codecov.io/gh/AndcultureCode/AndcultureCode.CSharp.Data)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+# AndcultureCode.CSharp.Data
+![build status](https://github.com/AndcultureCode/AndcultureCode.CSharp.Data/actions/workflows/build.yaml/badge.svg)
+[![codecov](https://codecov.io/gh/AndcultureCode/AndcultureCode.CSharp.Data/branch/main/graph/badge.svg)](https://codecov.io/gh/AndcultureCode/AndcultureCode.CSharp.Data)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Infrastructure layer's general purpose data actors
